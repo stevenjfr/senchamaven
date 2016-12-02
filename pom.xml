@@ -34,7 +34,7 @@
               <goal>exec</goal>
             </goals>
             <configuration>
-              <executable>/Users/steven/bin/Sencha/Cmd/sencha</executable>
+              <executable>sencha</executable>
               <workingDirectory>${basedir}/src/main/sencha/myapp</workingDirectory>
               <arguments>
                 <argument>app</argument>
