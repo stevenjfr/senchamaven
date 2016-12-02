@@ -40,7 +40,7 @@
                 <argument>app</argument>
                 <argument>build</argument>
                 <argument>--destination</argument>
-                <argument>${basedir}/src/main/webapp/build</argument>
+                <argument>${basedir}/src/main/webapp</argument>
               </arguments>
             </configuration>
           </execution>
